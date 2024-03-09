@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChloeXiao0409](https://github.com/ChloeXiao0409)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/mengying-xiao-4a035a250](www.linkedin.com/in/mengying-xiao-4a035a250)
+- 📝 I regularly write articles on [www.linkedin.com/in/mengying-chloe-xiao-4a035a250](www.linkedin.com/in/mengying-chloe-xiao-4a035a250)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,Java,Python**
 
 - 📫 How to reach me **chloexiao0409@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mengying-xiao-4a035a250](www.linkedin.com/in/mengying-xiao-4a035a250)
+- 📄 Know about my experiences [www.linkedin.com/in/mengying-chloe-xiao-4a035a250](www.linkedin.com/in/mengying-chloe-xiao-4a035a250)
 
 - ⚡ Fun fact **I am a enthusiasm animal lover！**
 
