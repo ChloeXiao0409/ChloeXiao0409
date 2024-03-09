@@ -11,19 +11,19 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChloeXiao0409](https://github.com/ChloeXiao0409)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/mengying-chloe-xiao-4a035a250](www.linkedin.com/in/mengying-chloe-xiao-4a035a250)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mengying-chloe-xiao-4a035a250](https://www.linkedin.com/in/mengying-chloe-xiao-4a035a250)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,Java,Python**
 
 - 📫 How to reach me **chloexiao0409@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mengying-chloe-xiao-4a035a250](www.linkedin.com/in/mengying-chloe-xiao-4a035a250)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mengying-chloe-xiao-4a035a250](https://www.linkedin.com/in/mengying-chloe-xiao-4a035a250)
 
 - ⚡ Fun fact **I am a enthusiasm animal lover！**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mengying-chloe-xiao-4a035a250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mengying (chloe) xiao" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mengying-chloe-xiao-4a035a250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mengying (chloe) xiao" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
