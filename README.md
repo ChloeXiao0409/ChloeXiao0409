@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mengying(Chloe) Xiao</h1>
 <h3 align="center">Passionate Master of Computer Science Candidate @ USyd′26</h3>
 
-- 🔭 I’m currently working on [OpenBootcamp Internship Work](https://github.com/ChloeXiao0409/lab-js-basic-algorithms)
+- 🔭 I’m currently working on [Dispatch AI Project](https://github.com/Dispatch-AI-com)
 
 - 🌱 I’m currently learning **Web Development**
 
