@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChloeXiao0409](https://github.com/ChloeXiao0409)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mengying-chloe-xiao-4a035a250](https://www.linkedin.com/in/mengying-chloe-xiao-4a035a250)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mengying-xiao/](https://www.linkedin.com/in/mengying-xiao/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,Java,Python**
 
