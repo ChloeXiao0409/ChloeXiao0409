@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chloexiao0409@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mengying-chloe-xiao-4a035a250](https://www.linkedin.com/in/mengying-chloe-xiao-4a035a250)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mengying-xiao/](https://www.linkedin.com/in/mengying-xiao/)
 
 - ⚡ Fun fact **I am a enthusiasm animal lover！**
 
