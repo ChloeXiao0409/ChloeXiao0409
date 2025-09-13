@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mengying(Chloe) Xiao</h1>
 <h3 align="center">Passionate Master of Computer Science Candidate @ USyd′25</h3>
 
-- 🔭 I’m currently working on [Dispatch AI Project](https://github.com/Dispatch-AI-com)
+- 🔭 I’m currently working on [Dispatch AI](https://github.com/Dispatch-AI-com)
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mengying-xiao/](https://www.linkedin.com/in/mengying-xiao/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Java,Python**
+- 💬 Ask me about **TypeScript,Java,Python**
 
 - 📫 How to reach me **chloexiao0409@gmail.com**
 
