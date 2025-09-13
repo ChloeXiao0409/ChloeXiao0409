@@ -72,6 +72,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="32" title="Jest" style="margin:4px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="32" title="JUnit" style="margin:4px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" title="Figma" style="margin:4px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="36" title="Blender" style="margin:4px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="36" title="GIMP" style="margin:4px;"/>
 </p>
 
 
